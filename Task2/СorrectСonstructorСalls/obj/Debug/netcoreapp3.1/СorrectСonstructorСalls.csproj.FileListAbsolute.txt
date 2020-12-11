@@ -1,0 +1,12 @@
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.exe
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.deps.json
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.runtimeconfig.json
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.runtimeconfig.dev.json
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.dll
+D:\VStudio\Task2\СorrectСonstructorСalls\bin\Debug\netcoreapp3.1\СorrectСonstructorСalls.pdb
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.csproj.CoreCompileInputs.cache
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.AssemblyInfoInputs.cache
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.AssemblyInfo.cs
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.dll
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.pdb
+D:\VStudio\Task2\СorrectСonstructorСalls\obj\Debug\netcoreapp3.1\СorrectСonstructorСalls.genruntimeconfig.cache
