@@ -1,0 +1,13 @@
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\VStudio\gitdesk\MyTasks\Task3\Task3\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

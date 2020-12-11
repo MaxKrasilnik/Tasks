@@ -1,0 +1,12 @@
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.exe
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.deps.json
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.json
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.dev.json
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.dll
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.pdb
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csproj.CoreCompileInputs.cache
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfoInputs.cache
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfo.cs
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.dll
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.pdb
+D:\VStudio\gitdesk\MyTasks\Task3\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.genruntimeconfig.cache
