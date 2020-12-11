@@ -1,0 +1,13 @@
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.exe
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.deps.json
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.runtimeconfig.json
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.runtimeconfig.dev.json
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.dll
+D:\VStudio\Tasks — копия\Task4\Lazy\bin\Debug\netcoreapp3.1\Lazy.pdb
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.csprojAssemblyReference.cache
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.csproj.CoreCompileInputs.cache
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.AssemblyInfoInputs.cache
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.AssemblyInfo.cs
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.dll
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.pdb
+D:\VStudio\Tasks — копия\Task4\Lazy\obj\Debug\netcoreapp3.1\Lazy.genruntimeconfig.cache
